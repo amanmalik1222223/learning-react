@@ -19,6 +19,7 @@ function TodoItem({ todo }) {
         toggleComplete(todo.id)
     }
 
+    console.log("hello");
     
 
     return (
